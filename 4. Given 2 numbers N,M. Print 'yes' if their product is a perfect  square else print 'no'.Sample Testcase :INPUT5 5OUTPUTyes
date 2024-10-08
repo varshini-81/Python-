@@ -1,0 +1,19 @@
+ //Source Code:
+
+import math
+
+n=int(input())
+
+m=int(input())
+
+product=n*m
+
+s=math.sqrt(product)
+
+if(n==s):
+
+ print('yes')
+
+else:
+
+ print('no')

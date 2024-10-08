@@ -1,0 +1,30 @@
+#Language Used: PYTHON 3
+
+#Source Code:
+
+word=input( )
+
+for i in word:
+
+ print(i)
+#Sample Input:
+guvigeek
+#Sample Output:
+
+g
+
+u
+
+v
+
+i
+
+g
+
+e
+
+e
+
+k
+
+Completion Status: Completed

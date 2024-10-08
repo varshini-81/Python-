@@ -1,0 +1,25 @@
+// Source Code:
+
+a=int(input(""))
+
+b=int(input(""))
+
+c=int(input(""))
+
+print(a ,b ,c)
+#Sample Input:
+
+2
+
+4
+
+5
+
+#Sample Output:
+
+2 4 5
+
+Completion Status: Completed
+
+
+

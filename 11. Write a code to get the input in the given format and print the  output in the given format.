@@ -1,0 +1,11 @@
+ Language Used: PYTHON 3
+
+Source Code:
+
+a=input( ).split(' ')
+
+for i in a:
+
+ print(i)
+
+Compilation Details:

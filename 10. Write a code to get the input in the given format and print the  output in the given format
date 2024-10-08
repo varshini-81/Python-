@@ -1,0 +1,11 @@
+#Language Used: PYTHON 3
+
+#Source Code:
+
+letter=input( )
+print(*letter")
+#Sample Input:
+guvi
+#Sample Output:
+g u v i
+#Completion Status: Completed

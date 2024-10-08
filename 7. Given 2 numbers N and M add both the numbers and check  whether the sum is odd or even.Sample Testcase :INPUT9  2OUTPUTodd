@@ -1,0 +1,17 @@
+//Language Used: PYTHON 2
+
+//Source Code:
+
+b=int(input(" ")) 
+
+h=int(input(" ")) 
+
+add=b+h
+
+if(add%2!=0):
+
+ print("odd")
+
+else:
+
+ print("even")

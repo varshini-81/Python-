@@ -1,0 +1,7 @@
+#Language Used: PYTHON 3
+
+#Source Code:
+
+str=input()
+
+print(str[::-1]) 

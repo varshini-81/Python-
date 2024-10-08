@@ -1,0 +1,9 @@
+ Language Used: PYTHON 3
+
+Source Code:
+
+l=int(input())
+
+b=int(input())
+
+print(l*b)

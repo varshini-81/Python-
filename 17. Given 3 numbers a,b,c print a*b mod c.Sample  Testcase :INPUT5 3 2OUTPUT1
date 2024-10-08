@@ -1,0 +1,31 @@
+def calculate_product_mod(a, b, c):
+
+ """Calculates (a * b) mod c.
+
+ Args:
+
+ a: The frst number.
+
+ b: The second number.
+
+ c: The modulus.
+
+ Returns:
+
+ The result of (a * b) mod c.
+
+ """
+
+ product = (a * b) % c
+
+ return product
+
+# Get input from the user
+
+a, b, c = map(int, input().split())
+
+# Calculate and print the result
+
+result = calculate_product_mod(a, b, c)
+
+print(result)

@@ -1,0 +1,7 @@
+//Source Code:
+
+H=int(input(" ")) 
+
+Triangle_Area=0.5*b*h
+
+print(Triangle_Area) 
